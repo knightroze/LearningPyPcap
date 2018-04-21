@@ -1,0 +1,12 @@
+The learning is based on the doc of pypcap and function "dir".
+[
+ 'bpf',/#ok
+ 'dltoff',#ok
+ 'ex_name',#??????
+ 'findalldevs',#ok,show all net device
+ 'lookupdev',#ok
+ 'lookupnet',#ok
+ 'pcap',#ok 
+ 'pcap_handler_ctx',#???
+ 'struct',#code change python to c
+ 'sys']
